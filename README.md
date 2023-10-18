@@ -1,7 +1,7 @@
 # volume-webhook-go-example
 Volume Webhook consumer with signature verification in Golang
 
-This example utilises the ```godotenv``` package to acess the *.env* file.   
+This example utilises the ```godotenv``` package to access the *.env* file.   
 To use it please install:   
 ```go get github.com/joho/godotenv```
 
