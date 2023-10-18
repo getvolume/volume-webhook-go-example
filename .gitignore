@@ -1,0 +1,32 @@
+# Compiled binaries and object files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.iml
+
+# Dependency directories (remove this if you'd like to check in your vendored dependencies)
+vendor/
+
+# Go build output
+bin/
+
+# Log files
+*.log
+
+# JetBrains IDE
+.idea/
+
+# macOS artifacts
+.DS_Store
+
+# Test coverage
+*.cover.out
+
+# Binary utilities
+cmd/
+
+# Any other binaries or build outputs
